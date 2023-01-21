@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/pasuta-jp">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<!--<a href="https://github.com/pasuta-jp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&count_private=true" />
+</a>-->
+<a href="https://github.com/pasuta-jp">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=4" />
+</a>
