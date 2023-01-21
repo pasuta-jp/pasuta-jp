@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/Tsukuweb">
+<a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp" />
 </a>
 
