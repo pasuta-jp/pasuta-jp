@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp" />
 </a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/pasuta-jp">
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" />
+</a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-
