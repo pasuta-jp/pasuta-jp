@@ -24,5 +24,5 @@ Here are some ideas to get you started:-->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&count_private=true" />
 </a>-->
 <a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=3" />
 </a>
