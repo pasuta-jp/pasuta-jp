@@ -12,7 +12,14 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: Japanese
 - ⚡ Fun fact: Visual Novel, Traveling alone, and Draw an Anime-illustration
 
+<p align="left">
+  <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
+   <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -46,7 +53,6 @@ Here are some ideas to get you started:-->
   </a> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=pasuta-jp)
 <a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
@@ -56,9 +62,6 @@ Here are some ideas to get you started:-->
 <a href="https://github.com/pasuta-jp">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" />
 </a>
-<!--<a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&count_private=true" />
-</a>-->
 <a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=3" />
 </a>
