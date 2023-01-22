@@ -115,3 +115,10 @@ Here are some ideas to get you started:-->
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true"/>
    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasuta-jp&theme=tokyonight"/>
 </p>-->
+<br>
+<h3>Latest Tweets</h3>
+<p align="left">
+   <a href="https://twitter.com/Walter_Mitty_1">
+      <img src="https://github-readme-twitter.gazf.vercel.app/api?id=pasuta0001" alt="github-readme-twitter">
+   </a>
+</p>
