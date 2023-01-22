@@ -14,8 +14,10 @@ Here are some ideas to get you started:-->
 
 <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
    <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
-  </a>
+</a>
+  
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -83,6 +85,7 @@ Here are some ideas to get you started:-->
      <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=7" />
    </a>
 </p>
+
 <p align="left">
    <a href="https://github.com/pasuta-jp">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" width="350"/>
