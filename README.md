@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Visual Novel, Traveling alone, and Draw an Anime-illustration
 
 <p align="left">
-   <img src="https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/github.png" width="50%"/> 
+   <img src="https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/name.png" width="70%"/> 
 </p>
 
 <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
