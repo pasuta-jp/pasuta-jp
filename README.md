@@ -61,12 +61,12 @@ Here are some ideas to get you started:-->
    <a href="https://ja.stackoverflow.com/users/56697/pasuta?tab=profile" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="56697" height="30" width="40" />
    </a>
-   <a href="https://kaggle.com/akamashunsuke" target="blank">
+<!--   <a href="https://kaggle.com/akamashunsuke" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akama.laboratory@gmail.com" height="30" width="40" />
    </a>
    <a href="https://fb.com/akama.shunsuke" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akama.shunsuke" height="30" width="40" />
-   </a>
+   </a>-->
    <a href="https://instagram.com/karinlove10x1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karinlove10x1" height="30" width="40" />
    </a>
