@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:-->
 
+[![image](https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/name.png)](https://github.com/pasuta-jp)
+
 - 🔭 I’m currently working on global management consulting firm.
 - 🌱 I’m currently learning React/Next.js, TypeScript, Flutter, Python(Django, Selenium, BeautifulSoup), and WebAPI.
 - 💬 Ask me about Japanese Visual Novel.
@@ -13,15 +15,11 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Visual Novel, Traveling alone, and Draw an Anime-illustration
 
 <p align="left">
-   <img src="https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/name.png" width="70%"/> 
-</p>
-
 <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
    <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
 </a>
-  
-<br>
-
+   <br>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
