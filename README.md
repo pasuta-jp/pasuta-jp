@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/pasuta-jp/pasuta-jp/blob/main/icon_pasuta.jpg"/> 
 <!--
 **pasuta-jp/pasuta-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +11,10 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [Tsukuweb.com @PASUTA](https://tsukuweb.com/member)
 - 😄 Pronouns: Japanese
 - ⚡ Fun fact: Visual Novel, Traveling alone, and Draw an Anime-illustration
+
+<p align="left">
+   <img src="https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/github.png" width="50%"/> 
+</p>
 
 <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
    <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
