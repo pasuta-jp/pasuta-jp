@@ -97,14 +97,19 @@ Here are some ideas to get you started:-->
 <!--<a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true" height="100"/>
 </a>-->
+
 <p align="left">
    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasuta-jp&theme=tokyonight"/>
 </p>
 <p align="left">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasuta-jp&theme=tokyonight"/>
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasuta-jp&theme=tokyonight"/>
+   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasuta-jp&theme=tokyonight&utcOffset=8" width="60%"/>
 </p>
 <p align="left">
    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasuta-jp&theme=tokyonight"/>
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasuta-jp&theme=tokyonight&utcOffset=8"/>
+   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasuta-jp&theme=tokyonight"/>
+</p>
+
+<p align="left">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true"/>
+   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasuta-jp&theme=tokyonight"/>
 </p>
