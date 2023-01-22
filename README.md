@@ -79,17 +79,17 @@ Here are some ideas to get you started:-->
 </p>
 
 <p align="left">
-<a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=7" />
-</a>
+   <a href="https://github.com/pasuta-jp">
+     <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=7" />
+   </a>
 </p>
 <p align="left">
-<a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" width="350"/>
-</a>
- <a href="https://github.com/pasuta-jp">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" width="350"/>
-</a>
+   <a href="https://github.com/pasuta-jp">
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" width="350"/>
+   </a>
+   <a href="https://github.com/pasuta-jp">
+     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" width="350"/>
+   </a>
 </p>
 <!--<a href="https://github.com/pasuta-jp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true" height="100"/>
