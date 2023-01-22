@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <!--
 **pasuta-jp/pasuta-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
 [![image](https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/name.png)](https://github.com/pasuta-jp)
-
+### Hi there 👋
 - 🔭 I’m currently working on global management consulting firm.
 - 🌱 I’m currently learning React/Next.js, TypeScript, Flutter, Python(Django, Selenium, BeautifulSoup), and WebAPI.
 - 💬 Ask me about Japanese Visual Novel.
