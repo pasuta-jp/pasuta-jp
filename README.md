@@ -86,7 +86,7 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">Latest Tweets:</h3>
 <p align="left">
-   <a href="https://twitter.com/Walter_Mitty_1">
+   <a href="https://twitter.com/pasuta0001">
       <img src="https://github-readme-twitter.gazf.vercel.app/api?id=pasuta0001&amp;layout=wide" alt="github-readme-twitter">
    </a>
 </p>
