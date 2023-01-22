@@ -90,10 +90,10 @@ Here are some ideas to get you started:-->
 </p>
 <p align="left">
    <a href="https://github.com/pasuta-jp">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" width="350"/>
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" width="340"/>
    </a>
    <a href="https://github.com/pasuta-jp">
-     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" width="350"/>
+     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" width="340"/>
    </a>
 </p>
 <!--<a href="https://github.com/pasuta-jp">
