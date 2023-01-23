@@ -18,6 +18,29 @@ Here are some ideas to get you started:-->
 </a>
    <br>
 </p>
+
+<h3 align="left">Currently Learning:</h3>
+<p align="left"> 
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+   </a> 
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+   </a> 
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+   </a> 
+   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+   </a> 
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+   </a> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,dart" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -50,6 +73,9 @@ Here are some ideas to get you started:-->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,wordpress" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
