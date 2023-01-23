@@ -128,7 +128,7 @@ Here are some ideas to get you started:-->
 
 <p align="left">
    <a href="https://github.com/pasuta-jp">
-     <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight" />
+     <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&column=7" />
    </a>
 </p>
 <br>
