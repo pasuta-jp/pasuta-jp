@@ -15,12 +15,17 @@ Here are some ideas to get you started:-->
 ## Me when you see my profile👀:
 [![image](https://media.tenor.com/UY8XkRHVpMEAAAAC/gawr-gura.gif)](https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301)
 <p align="left">
-   <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
-   <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
-</a>
-      <a href="https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301">Gawr Gura GIF</a>from 
-      <a href="https://tenor.com/search/gawr-gifs">Gawr GIFs</a>
+   <!--<a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
+      <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
+   </a>-->
+   <a href="https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301">Gawr Gura GIF</a> from 
+   <a href="https://tenor.com/search/gawr-gifs">Gawr GIFs</a>
+   <br>
+   <a href="https://count.getloli.com/" target="_blank" rel="noreferrer">
+      <img src="https://count.getloli.com/get/@pasuta-jp?theme=moebooru" alt="count" />
+   </a>
 </p>
+
 <h2 align="left">Currently Learning📚:</h2>
 <p align="left"> 
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
