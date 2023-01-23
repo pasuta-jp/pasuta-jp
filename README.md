@@ -125,11 +125,13 @@ Here are some ideas to get you started:-->
    </a>
 </p>
 <h2 align="left">My GitHub Status📈:</h2>
+
 <p align="left">
    <a href="https://github.com/pasuta-jp">
-     <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=7" />
+     <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight" />
    </a>
 </p>
+<br>
 <p align="left">
    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasuta-jp&theme=tokyonight"/>
 </p>
