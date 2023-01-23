@@ -13,16 +13,22 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: Japanese
 - ⚡ Fun fact: Visual Novel, Traveling alone, and Draw an Anime-illustration
 ## Me when you see my profile👀:
-[![image](https://media.tenor.com/UY8XkRHVpMEAAAAC/gawr-gura.gif)](https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301)
+
 <p align="left">
    <!--<a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
       <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
    </a>-->
-   <a href="https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301">Gawr Gura GIF</a> from 
-   <a href="https://tenor.com/search/gawr-gifs">Gawr GIFs</a>
-   <br>
-   <a href="https://count.getloli.com/" target="_blank" rel="noreferrer">
+      <a>Profile Views</a> <br>
+      <a href="https://count.getloli.com/" target="_blank" rel="noreferrer">
       <img src="https://count.getloli.com/get/@pasuta-jp?theme=moebooru" alt="count" />
+   </a>
+   <br>
+   <a href="https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301">Gawr Gura GIF</a> from 
+   <a href="https://tenor.com/search/gawr-gifs">Gawr GIFs</a>   
+</p>
+<p align="left">
+   <a href="https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301" target="_blank" rel="noreferrer">
+      <img src="https://media.tenor.com/UY8XkRHVpMEAAAAC/gawr-gura.gif"/>
    </a>
 </p>
 
