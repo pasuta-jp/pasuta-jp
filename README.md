@@ -4,22 +4,24 @@
 Here are some ideas to get you started:-->
 
 [![image](https://github.com/pasuta-jp/pasuta-jp/blob/main/icon/name.png)](https://github.com/pasuta-jp)
-### Hi there 👋
+## Hi there 👋
+
 - 🔭 I’m currently working on global management consulting firm.
 - 🌱 I’m currently learning React/Next.js, TypeScript, Flutter, Python(Django, Selenium, BeautifulSoup), and WebAPI.
 - 💬 Ask me about Japanese Visual Novel.
 - 📫 How to reach me: [Tsukuweb.com @PASUTA](https://tsukuweb.com/member)
 - 😄 Pronouns: Japanese
 - ⚡ Fun fact: Visual Novel, Traveling alone, and Draw an Anime-illustration
-
+## Me when you see my profile👀:
+[![image](https://media.tenor.com/UY8XkRHVpMEAAAAC/gawr-gura.gif)](https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301)
 <p align="left">
-<a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
+   <a href="https://github.com/pasuta-jp" target="_blank" rel="noreferrer">
    <img align="left" src="https://komarev.com/ghpvc/?username=pasuta-jp" />
 </a>
-   <br>
+      <a href="https://tenor.com/view/gawr-gura-dudul-excited-gif-23378301">Gawr Gura GIF</a>from 
+      <a href="https://tenor.com/search/gawr-gifs">Gawr GIFs</a>
 </p>
-
-<h3 align="left">Currently Learning:</h3>
+<h2 align="left">Currently Learning📚:</h2>
 <p align="left"> 
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -41,7 +43,7 @@ Here are some ideas to get you started:-->
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools⚙️:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -78,7 +80,7 @@ Here are some ideas to get you started:-->
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me📧:</h2>
 <p align="left">
    <a href="https://twitter.com/walter_mitty_1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walter_mitty_1" height="30" width="40" />
@@ -105,14 +107,13 @@ Here are some ideas to get you started:-->
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="49MEwkgWw9" height="30" width="40" />
    </a>
 </p>
-
-<h3 align="left">Latest Tweets:</h3>
+<h2 align="left">Latest Tweets🗣:</h2>
 <p align="left">
    <a href="https://twitter.com/pasuta0001">
       <img src="https://github-readme-twitter.gazf.vercel.app/api?id=pasuta0001&amp;layout=wide" alt="github-readme-twitter">
    </a>
 </p>
-
+<h2 align="left">My GitHub Status📈:</h2>
 <p align="left">
    <a href="https://github.com/pasuta-jp">
      <img align="left" src="https://github-profile-trophy.vercel.app/?username=pasuta-jp&theme=tokyonight&column=7" />
