@@ -132,9 +132,7 @@ Here are some ideas to get you started:-->
    </a>
 </p>
 <br>
-<p align="left">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasuta-jp&theme=tokyonight"/>
-</p>
+
 <p align="left">
    <a href="https://github.com/pasuta-jp">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasuta-jp&theme=tokyonight&count_private=true&show_icons=true" width="340"/>
@@ -143,18 +141,13 @@ Here are some ideas to get you started:-->
      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pasuta-jp&theme=tokyonight" width="340"/>
    </a>
 </p>
-<!--<a href="https://github.com/pasuta-jp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true" height="100"/>
-</a>-->
-<!--<p align="left">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasuta-jp&theme=tokyonight&utcOffset=8" width="60%"/>
-</p>-->
-<p align="left">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasuta-jp&theme=tokyonight"/>
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasuta-jp&theme=tokyonight"/>
-</p>
+
 
 <!--<p align="left">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasuta-jp&theme=tokyonight&count_private=true"/>
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasuta-jp&theme=tokyonight"/>
 </p>-->
+
+
+[![](https://raw.githubusercontent.com/pasuta-jp/pasuta-jp/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/pasuta-jp/pasuta-jp/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/pasuta-jp/pasuta-jp/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/pasuta-jp/pasuta-jp/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/pasuta-jp/pasuta-jp/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
