@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 ## Hi there 👋
 
 - 🔭 I’m currently working on global management consulting firm.
-- 🌱 My skills, experiences and currently learning are...<br>Python, Django, OpenCV, scikit-lean, JavaScript, jQuery, Vue.js, Anime.js, Json,Geojson, SQL, AWS, Latex, Golang, React, Node.js, Next.js, TypeScript, Flutter, Firebase, Cloudflare, HTML, CSS, Git, VScode, Atom, Sublime Text, WordPress, Selenium, BeautifulSoup, GAS, VBA, MATLAB, OSM, QGIS, LeafMap, TellusAPI, TwiterAPI, GoogleMapAPI, PlaceAPI, GoogleSheetAPI.
+- 🌱 My skills, experiences and currently learning are...<br>Python, Django, OpenCV, scikit-lean, JavaScript, jQuery, Vue.js, Anime.js, Three.js, UIkit, Json,Geojson, SQL, AWS, Latex, Golang, React, Node.js, Next.js, TypeScript, Flutter, Firebase, Cloudflare, HTML, CSS, Git, VScode, Atom, Sublime Text, WordPress, Selenium, BeautifulSoup, GAS, VBA, MATLAB, OSM, QGIS, LeafMap, ClipStudio, Live2D, MMD, TellusAPI, TwiterAPI, GoogleMapAPI, PlaceAPI, GoogleSheetAPI.
 - 💬 Ask me about Japanese Visual Novel.
 - 📫 How to reach me: [Tsukuweb.com @PASUTA](https://tsukuweb.com/member)
 - 😄 Pronouns: Japanese
